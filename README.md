@@ -4,7 +4,7 @@
 
 This is an open evaluation of frontier models on the questions primary-care health workers actually ask about the two chronic diseases that fill Kenyan outpatient clinics: hypertension and diabetes. Every case is grounded in the Kenya Ministry of Health's national guidelines, and every case is asked twice, once in English and once in Swahili.
 
-It is a [Ylab](https://ylab.co) project. Ylab helps public institutions deploy and evaluate AI.
+It is a [Ylab](https://ylab.co) project by [Dave Yoon](https://github.com/daveyoon). Ylab helps public institutions deploy and evaluate AI.
 
 ## Why this exists
 
